@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tehzl@hotmail.com
+	name = Ethan Teh
